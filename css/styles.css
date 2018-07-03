@@ -1,0 +1,35 @@
+.loader {
+  position: absolute;
+  top: 47%;
+  left: 47%;
+}
+
+.section-stats,
+.section-visitors,
+.section-recent,
+.section-posts,
+.section-categories,
+.section-comments,
+.section-users,
+.section-login {
+  padding-top: 50px;
+}
+
+.section-posts,
+.section-categories,
+.section-comments,
+.section-users,
+.section-login {
+  padding-bottom: 30px;
+}
+
+.btn-extended {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.detail-btn {
+  margin: 0 15px;
+}
